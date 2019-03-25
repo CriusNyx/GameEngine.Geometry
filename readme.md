@@ -2,7 +2,7 @@
 
 This library was created as a learning tool, allowing me to learn object oriented design and algorithm design.
 
-This library is far from optimized, or preformant. However, it provides a number of features and algorithms, and was created by analyzing problems I frequently ran into while implementing game engines, and provides a competent solution to them, and is very flexible, allowing it to be adapted to many platforms.
+This library is far from optimized, or preformant. However, it provides a number of features and algorithms, and was created by analyzing problems I frequently ran into while implementing game engines, and provides a competent solution to them. Additionally, it is very flexible, and easy to implement in many projects.
 
 The algorithms and technologies all work correctly, and although none of them are the most optimal algorithms in existence, an effort was made to make them as optimal as I was able to when I created them by applying when I learned in collage, and my skill as a software engineer and mathematician.
 
