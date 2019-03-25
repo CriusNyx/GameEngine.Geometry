@@ -1,4 +1,5 @@
 **GameEngine Geometry**
+
 This library was created as a learning tool, allowing me to learn object oriented design and algorithm design.
 
 This library is far from optimized, or preformant. However, it provides a number of features and algorithms, and was created by analyzing problems I frequently ran into while implementing game engines, and provides a competent solution to them, and is very flexible, allowing it to be adapted to many platforms.
