@@ -1,4 +1,4 @@
-**GameEngine Geometry**
+# GameEngine Geometry
 
 This library was created as a learning tool, allowing me to learn object oriented design and algorithm design.
 
